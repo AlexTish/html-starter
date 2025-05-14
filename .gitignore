@@ -1,0 +1,29 @@
+# macOS системные файлы
+.DS_Store
+
+# Node.js
+node_modules/
+
+# Логи
+*.log
+
+# IDE / Editor файлы
+.vscode/
+.idea/
+
+# Сборка или временные файлы
+dist/
+build/
+*.tmp
+*.bak
+
+# Системные файлы
+Thumbs.db
+ehthumbs.db
+
+# Кэш браузера
+.cache/
+
+# npm/yarn lock-файлы
+package-lock.json
+yarn.lock
